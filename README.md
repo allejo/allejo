@@ -1,6 +1,6 @@
 hi. i spend an unreasonable amount of time on GitHub as you can probably tell by my github activity below.
 
-i currently work for [**@CSUN-IT**](https://github.com/CSUN-IT) as a developer. i do full-stack web development, project management, and _a lot_ of CI/CD automation.
+i currently work for [**@StackExchange**](https://github.com/StackExchange) as a software engineer.
 
 here are other things i do:
 
