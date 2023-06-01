@@ -1,6 +1,6 @@
 hi. i spend an unreasonable amount of time on GitHub as you can probably tell by my github activity below.
 
-i currently work for [**@StackExchange**](https://github.com/StackExchange) as a software engineer.
+i'm an [ex-Stack Overflow engineer](https://meta.stackexchange.com/q/389060) sad about the [current state of Stack](https://meta.stackexchange.com/q/389558)
 
 here are other things i do:
 
