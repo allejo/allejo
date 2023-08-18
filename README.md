@@ -1,6 +1,6 @@
 hi. i spend an unreasonable amount of time on GitHub as you can probably tell by my github activity below.
 
-i'm an [ex-Stack Overflow engineer](https://meta.stackexchange.com/q/389060) sad about the [current state of Stack](https://meta.stackexchange.com/q/389558)
+an [ex-Stack Overflow engineer](https://meta.stackexchange.com/q/389060), that [supported the June 2023 moderator strike](https://meta.stackexchange.com/q/389811) and [the strike's resolutions](https://meta.stackexchange.com/q/391847).
 
 here are other things i do:
 
