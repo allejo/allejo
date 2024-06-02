@@ -1,8 +1,8 @@
-hi. i spend an unreasonable amount of time on GitHub as you can probably tell by my github activity below.
+hello, I'm a senior frontend engineer currently working in Higher Ed at [UC Merced](http://ucmerced.edu)
 
-an [ex-Stack Overflow engineer](https://meta.stackexchange.com/q/389060), that [supported the June 2023 moderator strike](https://meta.stackexchange.com/q/389811) and [the strike's resolutions](https://meta.stackexchange.com/q/391847).
+previously, i was a [Stack Overflow engineer](https://meta.stackexchange.com/users/259198/allejo) leading accessibility and frontend refactoring efforts, both of which were not a financial priority for the company since my efforts died with my being laid off
 
-here are other things i do:
+i try to maintain a number of open sources but my time is limited nowadays,
 
 - [BZFlag](https://www.bzflag.org/) core developer
 - [highlight.js](https://github.com/highlightjs/highlight.js) core team
