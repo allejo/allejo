@@ -1,8 +1,8 @@
-hello, I'm a senior frontend engineer currently working in Higher Ed at [UC Merced](http://ucmerced.edu)
+hello, i'm a Latino in tech and a senior frontend engineer working in higher education at [UC Merced](http://ucmerced.edu).
 
-previously, i was a [Stack Overflow engineer](https://meta.stackexchange.com/users/259198/allejo) leading accessibility and frontend refactoring efforts, both of which were not a financial priority for the company since my efforts died with my being laid off
+previously, i was a [Stack Overflow engineer](https://meta.stackexchange.com/users/259198/allejo) known for my efforts of refactoring the frontend into [Webpack modules](https://meta.stackexchange.com/a/383086), developing [Winter Bash 2022](https://meta.stackexchange.com/a/384751), and sunsetting Developer Stories + Stack Overflow Jobs v1. [i was laid off](https://allejo.io/blog/being-promoted-to-customer-at-stack-overflow/) due to financial mismanagement and poor company leadership.
 
-i try to maintain a number of open sources but my time is limited nowadays,
+over the years, i have been involved in a lot of open source efforts,
 
 - [BZFlag](https://www.bzflag.org/) core developer
 - [highlight.js](https://github.com/highlightjs/highlight.js) core team
@@ -11,4 +11,4 @@ i try to maintain a number of open sources but my time is limited nowadays,
 - creator of [stakx](https://github.com/stakx-io/stakx), a PHP static site generator
 - developer for WordPress' [Syntax-highlighting Code Block (with Server-side Rendering) plugin](https://github.com/westonruter/syntax-highlighting-code-block)
 - [vfsStream](https://github.com/bovigo/vfsStream) co-maintainer
-- [bottomline (PHP's lodash equivalent)](https://github.com/maciejczyzewski/bottomline) co-maintainer
+- [bottomline (PHP's lodash port)](https://github.com/maciejczyzewski/bottomline) co-maintainer
